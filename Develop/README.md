@@ -31,11 +31,6 @@ none
 
 type in run test in terminal to perform test
 
-## Github
+## Questions
 
-Checkout the github repository at https://github.com/eqmccullough/Readme-Generator
-or contact me at eqmccullough@gmail.com if you have any questions.
-
-## Video
-
-https://drive.google.com/file/d/1ir3AC1whWpqX0jgQGIaxSjLx6xTIIcwq/view
+Checkout the github repository at github.com/eqmccullough or contact me at eqmccullough@gmail.com if you have any questions.

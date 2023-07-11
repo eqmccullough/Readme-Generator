@@ -74,7 +74,7 @@ function init() {
       },
        {
         type: 'input',
-        name: 'tests',
+        name: 'test',
         message: 'Write tests for your application. Then provide examples on how to run them here.',
       },
       {
